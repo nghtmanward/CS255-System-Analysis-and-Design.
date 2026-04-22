@@ -5,10 +5,10 @@ Included Artifacts
 This repository contains two key artifacts demonstrating my ability to analyze system requirements and design a complete software solution:
 
 1️Business Requirements Document (BRD)
-From Project One — outlines the client needs, system purpose, goals, constraints, and functional/nonfunctional requirements.
+From Project One - outlines the client needs, system purpose, goals, constraints, and functional/nonfunctional requirements.
 
 System Design Document (SDD)
-From Project Two — includes UML diagrams, technical requirements, system architecture, and design decisions.
+From Project Two - includes UML diagrams, technical requirements, system architecture, and design decisions.
 
 These documents together show my ability to gather requirements, interpret user needs, and design a system that meets real‑world business goals.
 
